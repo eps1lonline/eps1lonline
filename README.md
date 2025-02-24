@@ -28,16 +28,17 @@ Love solving problems on Codewars
 
 ### Top Repositories
 <div width="100%" align="center">
-    <div align="left">
-        <a href="https://github.com/eps1lonline/snake_java">
-            <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=eps1lonline&repo=snake_java&title_color=84cc16&text_color=facc15&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" />
-        </a>
-    </div>
-    <div align="right">
-        <a href="https://github.com/eps1lonline/tanks_java">
-            <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=eps1lonline&repo=tanks_java&title_color=84cc16&text_color=facc15&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" />
-        </a>
-    </div>
+    <a href="https://github.com/eps1lonline/snake_java">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=eps1lonline&repo=snake_java&title_color=84cc16&text_color=facc15&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" />
+    </a>
+    <br>
+    <a href="https://github.com/eps1lonline/tanks_java">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=eps1lonline&repo=tanks_java&title_color=84cc16&text_color=facc15&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" />
+    </a>
+    <br>
+    <a href="https://github.com/eps1lonline/billiard_java">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=eps1lonline&repo=billiard_java&title_color=84cc16&text_color=facc15&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" />
+    </a>
 </div>
 
 <img src="https://github.r2v.ch/codewars?user=epsilonline"/>
