@@ -27,16 +27,23 @@ Love solving problems on Codewars
 <a href="https://github.com/eps1lonline" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eps1lonline&langs_count=10&title_color=84cc16&text_color=facc15&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Top Repositories
-<div style="display: flex; justify-content: center; flex-wrap: wrap;">
-  <a href="https://github.com/eps1lonline/snake_java" style="margin: 10px;">
-    <img width="300" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=eps1lonline&repo=snake_java&title_color=84cc16&text_color=facc15&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" />
-  </a>
-  <a href="https://github.com/eps1lonline/tanks_java" style="margin: 10px;">
-    <img width="300" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=eps1lonline&repo=tanks_java&title_color=84cc16&text_color=facc15&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" />
-  </a>
-  <a href="https://github.com/eps1lonline/billiard_java" style="margin: 10px;">
-    <img width="300" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=eps1lonline&repo=billiard_java&title_color=84cc16&text_color=facc15&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" />
-  </a>
+
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <div style="margin: 10px;">
+    <a href="https://github.com/eps1lonline/snake_java">
+      <img width="300" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=eps1lonline&repo=snake_java&title_color=84cc16&text_color=facc15&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" />
+    </a>
+  </div>
+  <div style="margin: 10px;">
+    <a href="https://github.com/eps1lonline/tanks_java">
+      <img width="300" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=eps1lonine&repo=tanks_java&title_color=84cc16&text_color=facc15&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" />
+    </a>
+  </div>
+  <div style="margin: 10px;">
+    <a href="https://github.com/eps1lonline/billiard_java">
+      <img width="300" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=eps1lonline&repo=billiard_java&title_color=84cc16&text_color=facc15&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" />
+    </a>
+  </div>
 </div>
 
 <img src="https://github.r2v.ch/codewars?user=epsilonline"/>
