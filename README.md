@@ -6,9 +6,9 @@
   Hi 👋 My name is Nikita
 </h1>
 
-+ I am a Backend Developer  
-+ 4th year student at BSU FAMCS  
-+ Love solving problems on Codewars  
+I am a Backend Developer  
+4th year student at BSU FAMCS  
+Love solving problems on Codewars  
 
 * 🌍  I'm based in Belarus, Minsk
 * ✉️  You can contact me at [https://t.me/eps1lonline](mailto:https://t.me/eps1lonline)
@@ -16,7 +16,7 @@
 * 🤝  I'm open to collaborating on interesting project
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <div style="text-align: left;">
+  <div style="text-align: left; width: 50%;">
     <h3>Skills</h3>
     <p>
       <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -30,7 +30,7 @@
     </p>
   </div>
 
-  <div style="text-align: left;">
+  <div style="text-align: left; width: 50%;">
     <h3>Socials</h3>
     <p>
       <a href="https://www.github.com/eps1lonline" target="_blank" rel="noreferrer">
