@@ -2,10 +2,9 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2dqYTF4MjhlYTNlZHY3b3hxNjVwMHg2Y2xwOXo3MnZycXd5aXNmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohzdXIKl0BjNK2g3m/giphy.gif" width="400"/>
 </div>
 
-<div style="text-align: center;">
+<h1 align="center">
   Hi 👋 My name is Nikita
-</div>
-=======================
+</h1>
 
 I am a Backend Developer  
 4th year student at BSU FAMCS  
