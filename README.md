@@ -6,7 +6,7 @@
 
 <!-- Header eader -->
 <h1 align="center">
-  Hi 👋 My name is Nikita
+  Hi 👋 My name is Nikita!
 </h1>
 
 
