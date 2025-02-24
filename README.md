@@ -1,7 +1,7 @@
-<div style="text-align: center;">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2dqYTF4MjhlYTNlZHY3b3hxNjVwMHg2Y2xwOXo3MnZycXd5aXNmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohzdXIKl0BjNK2g3m/giphy.gif" width="400" style="border-radius: 15px;" />
-  <h1>Hi 👋 My name is Nikita</h1>
-</div>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2dqYTF4MjhlYTNlZHY3b3hxNjVwMHg2Y2xwOXo3MnZycXd5aXNmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohzdXIKl0BjNK2g3m/giphy.gif" width="400" style="border-radius: 15px;" />
+
+Hi 👋 My name is Nikita
+=======================
 
 I am a Backend Developer 4th year student at BSU FAMCS Love solving problems on Codewars
 
@@ -26,12 +26,12 @@ I am a Backend Developer 4th year student at BSU FAMCS Love solving problems on 
 
 <a href="https://github.com/eps1lonline" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eps1lonline&langs_count=10&title_color=84cc16&text_color=facc15&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### Top Repositories
+<b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/eps1lonline/snake_java" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=eps1lonline&repo=snake_java&title_color=84cc16&text_color=facc15&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/eps1lonline/tanks_java" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=eps1lonline&repo=tanks_java&title_color=84cc16&text_color=facc15&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/eps1lonline/snake_java" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=eps1lonline&repo=snake_java&title_color=84cc16&text_color=facc15&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/eps1lonline/tanks_java" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=eps1lonline&repo=tanks_java&title_color=84cc16&text_color=facc15&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br></br><br></br>
+<br /><br /><br /><br /><br />
+
 <div width="100%" align="center"><a href="https://github.com/eps1lonline/billiard_java" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=eps1lonline&repo=billiard_java&title_color=84cc16&text_color=facc15&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a></div>
 
-<br></br><br></br>
 <img src="https://github.r2v.ch/codewars?user=epsilonline"/>
