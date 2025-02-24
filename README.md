@@ -27,10 +27,22 @@ Love solving problems on Codewars
 <a href="https://github.com/eps1lonline" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eps1lonline&langs_count=10&title_color=84cc16&text_color=facc15&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Top Repositories
-<div width="100%" align="center"><a href="https://github.com/eps1lonline/snake_java" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=eps1lonline&repo=snake_java&title_color=84cc16&text_color=facc15&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/eps1lonline/tanks_java" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=eps1lonline&repo=tanks_java&title_color=84cc16&text_color=facc15&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
+<div width="100%" align="center">
+  <a href="https://github.com/eps1lonline/snake_java" style="margin-right: 20px;">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=eps1lonline&repo=snake_java&title_color=84cc16&text_color=facc15&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/eps1lonline/tanks_java" style="margin-left: 20px;">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=eps1lonline&repo=tanks_java&title_color=84cc16&text_color=facc15&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" />
+  </a>
+</div>
 
-<div width="100%" align="center"><a href="https://github.com/eps1lonline/billiard_java" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=eps1lonline&repo=billiard_java&title_color=84cc16&text_color=facc15&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a></div>
+<br /><br />
+
+<div width="100%" align="center">
+  <a href="https://github.com/eps1lonline/billiard_java">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=eps1lonline&repo=billiard_java&title_color=84cc16&text_color=facc15&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" />
+  </a>
+</div>
 
 <img src="https://github.r2v.ch/codewars?user=epsilonline"/>
