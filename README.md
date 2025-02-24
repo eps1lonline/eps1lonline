@@ -41,4 +41,4 @@ Love solving problems on Codewars
     </a>
 </div>
 
-[![Codewars](https://www.codewars.com/users/USERNAME/badges/large)](https://www.codewars.com/users/USERNAME)
+<img src="https://github.r2v.ch/codewars?user=epsilonline"/>
