@@ -86,7 +86,6 @@ I am a Backend developer. I am a 4th year student at BSU, Faculty of Applied Mat
         <img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=eps1lonline&repo=billiard_java&title_color=84cc16&text_color=facc15&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" />
     </a>
 </div>
-<br></br>
 
 
 <!-- Codewars -->
