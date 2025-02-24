@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2dqYTF4MjhlYTNlZHY3b3hxNjVwMHg2Y2xwOXo3MnZycXd5aXNmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohzdXIKl0BjNK2g3m/giphy.gif" width="400" style="border-radius: 30px;" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2dqYTF4MjhlYTNlZHY3b3hxNjVwMHg2Y2xwOXo3MnZycXd5aXNmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohzdXIKl0BjNK2g3m/giphy.gif" width="600"/>
 </div>
 
 Hi 👋 My name is Nikita
