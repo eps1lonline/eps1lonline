@@ -11,7 +11,7 @@
 
 
 <!-- Text -->
-I am a Backend Developer. 4th year student at BSU FAMCS. Love solving problems on Codewars  
+I am a Backend developer. I am a 4th year student at BSU, Faculty of Applied Mathematics and Computer Science. In my free time I like to solve problems on Codewars  
 
 * 🌍  I'm based in Belarus, Minsk  
 * ✉️  You can contact me at [https://t.me/eps1lonline](mailto:https://t.me/eps1lonline)
