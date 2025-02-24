@@ -92,4 +92,4 @@ Love solving problems on Codewars
 
 
 <!-- Codewars -->
-<img width="50%" src="https://github.r2v.ch/codewars?user=epsilonline"/>
+<img width="40%" src="https://github.r2v.ch/codewars?user=epsilonline"/>
