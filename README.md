@@ -3,9 +3,9 @@
 Hi 👋 My name is Nikita
 =======================
 
-I am a Backend Developer 
-4th year student at BSU FAMCS 
-Love solving problems on Codewars
+I am a Backend Developer  
+4th year student at BSU FAMCS  
+Love solving problems on Codewars  
 
 * 🌍  I'm based in Belarus, Minsk
 * ✉️  You can contact me at [https://t.me/eps1lonline](mailto:https://t.me/eps1lonline)
@@ -30,4 +30,4 @@ Love solving problems on Codewars
 
 <div width="100%" align="center"><a href="https://github.com/eps1lonline/billiard_java" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=eps1lonline&repo=billiard_java&title_color=84cc16&text_color=facc15&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a></div>
 
-<img width="50%" src="https://github.r2v.ch/codewars?user=epsilonline"/>
+<img src="https://github.r2v.ch/codewars?user=epsilonline"/>
