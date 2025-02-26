@@ -67,18 +67,20 @@ with others in the tech community
 
 <!-- Badges -->
 ### Badges
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eps1lonline&show_icons=true&theme=codeSTACKr" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eps1lonline&show_icons=true&theme=default" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img height=200 align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=eps1lonline&layout=donut&theme=codeSTACKr&langs_count=6" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img height=200 align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=eps1lonline&layout=donut&theme=default&langs_count=6" />
-</a>
+<div style="text-align: center;">
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=eps1lonline&show_icons=true&theme=codeSTACKr" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=eps1lonline&show_icons=true&theme=default" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=eps1lonline&layout=donut&theme=codeSTACKr&langs_count=6" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=eps1lonline&layout=donut&theme=default&langs_count=6" />
+  </a>
+</div>
 
 
 <!-- Top Repositories -->
