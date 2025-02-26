@@ -85,15 +85,19 @@ with others in the tech community
 
 <!-- Top Repositories -->
 ### Top Repositories
-<div width="100%" align="center">
+<div width="100%" align="right">
     <a href="https://github.com/eps1lonline/snake_java">
         <img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=eps1lonline&repo=snake_java&title_color=7FFF00&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" />
     </a>
-    <br>
+</div>
+  
+<div width="100%" align="center">
     <a href="https://github.com/eps1lonline/tanks_java">
         <img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=eps1lonline&repo=tanks_java&title_color=7FFF00&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" />
     </a>
-    <br>
+</div>
+
+<div width="100%" align="left">
     <a href="https://github.com/eps1lonline/billiard_java">
         <img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=eps1lonline&repo=billiard_java&title_color=7FFF00&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" />
     </a>
