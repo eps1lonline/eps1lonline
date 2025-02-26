@@ -66,7 +66,7 @@ I'am a Backend developer. I'am a 4th year student at BSU, Faculty of Applied Mat
 ### Badges
 <p align="left">
   <a href="https://github.com/eps1lonline" target="_blank" rel="noreferrer">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eps1lonline&langs_count=10&title_color=84cc16&text_color=facc15&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top   Languages" />
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eps1lonline&langs_count=10&title_color=ffffff&text_color=acff8a&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
   </a>
 </p>
 
