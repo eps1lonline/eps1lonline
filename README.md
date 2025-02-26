@@ -53,7 +53,9 @@ with others in the tech community
 
 
 <!-- Socials -->
-### Socials
+<div width="100%" align="right">
+  ### Socials
+</div>
 <p align="left">
   <a href="https://www.github.com/eps1lonline" target="_blank" rel="noreferrer">
     <picture>
