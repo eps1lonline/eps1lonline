@@ -11,7 +11,10 @@
 
 
 <!-- Text -->
-I'am a Backend developer. I'am a 4th year student at BSU, Faculty of Applied Mathematics and Computer Science. In my free time I like to solve problems on Codewars  
+I am a Backend developer. I am a 4th year student at BSU, Faculty of Applied Mathematics and Computer Science. In my free time,  
+I like to solve problems on Codewars, which helps me improve my coding skills and algorithmic thinking. I enjoy exploring new  
+technologies and frameworks, particularly in Python. I'm also passionate about contributing to open-source projects and collaborating  
+with others in the tech community
 
 * 🌍  I'm based in Belarus, Minsk  
 * ✉️  You can contact me at [https://t.me/eps1lonline](mailto:https://t.me/eps1lonline)
