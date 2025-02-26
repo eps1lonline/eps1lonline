@@ -90,4 +90,6 @@ I'am a Backend developer. I'am a 4th year student at BSU, Faculty of Applied Mat
 
 <!-- Codewars -->
 ### My Codewars Stats
-<img width="40%" align="center" src="https://github.r2v.ch/codewars?user=epsilonline"/>
+<div width="100%" align="center">
+    <img width="40%" src="https://github.r2v.ch/codewars?user=epsilonline"/>
+</div>
