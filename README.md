@@ -66,42 +66,24 @@ I'am a Backend developer. I'am a 4th year student at BSU, Faculty of Applied Mat
 ### Badges
 <p align="left">
   <a href="https://github.com/eps1lonline" target="_blank" rel="noreferrer">
-    <img id="badge" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eps1lonline&langs_count=10&title_color=7FFF00&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eps1lonline&langs_count=10&title_color=7FFF00&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
   </a>
 </p>
-
-<script>
-  // Пример процента (можно заменить на динамическое значение)
-  const percentage = 65; // Замените на ваше значение
-
-  const badge = document.getElementById('badge');
-  let color;
-
-  if (percentage > 60) {
-    color = '#7FFF00'; // Салатовый
-  } else if (percentage >= 30) {
-    color = '#FFFF00'; // Желтый
-  } else {
-    color = '#00BFFF'; // Голубой
-  }
-
-  badge.style.color = color;
-</script>
 
 
 <!-- Top Repositories -->
 ### Top Repositories
 <div width="100%" align="left">
     <a href="https://github.com/eps1lonline/snake_java">
-        <img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=eps1lonline&repo=snake_java&title_color=84cc16&text_color=facc15&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" />
+        <img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=eps1lonline&repo=snake_java&title_color=7FFF00&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" />
     </a>
     <br>
     <a href="https://github.com/eps1lonline/tanks_java">
-        <img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=eps1lonline&repo=tanks_java&title_color=84cc16&text_color=facc15&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" />
+        <img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=eps1lonline&repo=tanks_java&title_color=7FFF00&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" />
     </a>
     <br>
     <a href="https://github.com/eps1lonline/billiard_java">
-        <img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=eps1lonline&repo=billiard_java&title_color=84cc16&text_color=facc15&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" />
+        <img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=eps1lonline&repo=billiard_java&title_color=7FFF00&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" />
     </a>
 </div>
 
