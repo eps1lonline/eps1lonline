@@ -67,11 +67,18 @@ with others in the tech community
 
 <!-- Badges -->
 ### Badges
-<p align="center">
-  <a href="https://github.com/eps1lonline" target="_blank" rel="noreferrer">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eps1lonline&langs_count=10&title_color=7FFF00&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-  </a>
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eps1lonline&show_icons=true&theme=codeSTACKr" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eps1lonline&show_icons=true&theme=default" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img height=200 align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=eps1lonline&layout=donut&theme=codeSTACKr&langs_count=6" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <img height=200 align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=eps1lonline&layout=donut&theme=default&langs_count=6" />
+</a>
 
 
 <!-- Top Repositories -->
