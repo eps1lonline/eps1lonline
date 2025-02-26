@@ -73,15 +73,13 @@ I'am a Backend developer. I'am a 4th year student at BSU, Faculty of Applied Mat
 
 <!-- Top Repositories -->
 ### Top Repositories
-<div width="100%" align="center">
+<div style="display: flex; justify-content: space-between; width: 100%;">
     <a href="https://github.com/eps1lonline/snake_java">
         <img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=eps1lonline&repo=snake_java&title_color=7FFF00&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" />
     </a>
-    <br>
     <a href="https://github.com/eps1lonline/tanks_java">
         <img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=eps1lonline&repo=tanks_java&title_color=7FFF00&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" />
     </a>
-    <br>
     <a href="https://github.com/eps1lonline/billiard_java">
         <img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=eps1lonline&repo=billiard_java&title_color=7FFF00&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" />
     </a>
