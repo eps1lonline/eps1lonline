@@ -85,6 +85,12 @@ with others in the tech community
 
 <!-- Top Repositories -->
 ### Top Repositories
+<div width="100%" align="left">
+    <a href="https://github.com/eps1lonline/teplovdom">
+        <img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=eps1lonline&repo=teplovdom&title_color=7FFF00&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" />
+    </a>
+</div>
+
 <div width="100%" align="right">
     <a href="https://github.com/eps1lonline/snake_java">
         <img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=eps1lonline&repo=snake_java&title_color=7FFF00&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" />
@@ -94,12 +100,6 @@ with others in the tech community
 <div width="100%" align="center">
     <a href="https://github.com/eps1lonline/tanks_java">
         <img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=eps1lonline&repo=tanks_java&title_color=7FFF00&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" />
-    </a>
-</div>
-
-<div width="100%" align="left">
-    <a href="https://github.com/eps1lonline/billiard_java">
-        <img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=eps1lonline&repo=billiard_java&title_color=7FFF00&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" />
     </a>
 </div>
 
