@@ -92,8 +92,8 @@ with others in the tech community
 </div>
 
 <div width="100%" align="center">
-    <a href="https://github.com/eps1lonline/snake_java">
-        <img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=eps1lonline&repo=snake_java&title_color=7FFF00&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" />
+    <a href="https://github.com/eps1lonline/AnomalyFinder">
+        <img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=eps1lonline&repo=AnomalyFinder&title_color=7FFF00&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" />
     </a>
 </div>
   
