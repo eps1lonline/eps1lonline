@@ -52,19 +52,6 @@ with others in the tech community
 </p>
 
 
-<!-- Socials -->
-### Socials
-<p align="left">
-  <a href="https://www.github.com/eps1lonline" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="42" height="42" alt="GitHub" />
-    </picture>
-  </a>
-</p>
-
-
 <!-- Badges -->
 ### Badges
 <div width="100%" align="center">
