@@ -18,7 +18,7 @@ with others in the tech community
 
 * 🌍  I'm based in Belarus, Minsk  
 * ✉️  You can contact me at [https://t.me/borrow_time](mailto:https://t.me/borrow_time)
-* 🧠  I'm learning neural networks
+* 🙃  I love making different and cool programs
 * 🤝  I'm open to collaborating on interesting project
 
 
