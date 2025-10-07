@@ -17,7 +17,7 @@ technologies and frameworks, particularly in Python. I'm also passionate about c
 with others in the tech community
 
 * 🌍  I'm based in Belarus, Minsk  
-* ✉️  You can contact me at [https://t.me/eps1lonline](mailto:https://t.me/eps1lonline)
+* ✉️  You can contact me at [https://t.me/eps1lonline](mailto:https://t.me/borrow_time)
 * 🧠  I'm learning neural networks
 * 🤝  I'm open to collaborating on interesting project
 
